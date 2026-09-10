@@ -22,8 +22,8 @@ end to end.
 - Working on a remote Linux server over SSH, and keeping long jobs
   alive with `screen`
 
+![Project pipeline flowchart](pipeline_flowchart.png)
 ## Pipeline
-
 1. Download raw samples (FASTQ) from NCBI SRA
 2. Import into QIIME2
 3. Check read quality
